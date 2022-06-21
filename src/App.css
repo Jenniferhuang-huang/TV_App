@@ -1,0 +1,38 @@
+ul {
+  list-style: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+ul li {
+  margin-left: 20px;
+  width:25%;
+  padding: 10px;
+  
+} 
+ul li img {
+  width: 175px;
+  height: 80px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+div h3 {
+  width: 350px;
+  float: none;
+  margin-top: 115px;
+  margin-left: auto;
+  margin-right: auto;
+  text-transform:capitalize;
+}
+div h3 span {
+  color:rgb(28, 59, 85);
+  font-weight: bold;
+  margin-left: 10px;
+}
+h2 {
+  margin-left: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
